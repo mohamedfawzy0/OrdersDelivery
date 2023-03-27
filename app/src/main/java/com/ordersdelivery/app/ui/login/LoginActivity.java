@@ -100,12 +100,9 @@ public class LoginActivity extends BaseActivity {
             lang = "en";
         });
 
-        binding.btnApply.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                binding.flLang.setVisibility(View.GONE);
-                refreshActivity(lang);
-            }
+        binding.btnApply.setOnClickListener(v -> {
+            binding.flLang.setVisibility(View.GONE);
+            refreshActivity(lang);
         });
     }
 

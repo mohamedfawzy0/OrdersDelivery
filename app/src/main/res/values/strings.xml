@@ -22,4 +22,10 @@
     <string name="full_Return">Full Return</string>
     <string name="choose_your_preferred_language">Choose Your Preferred Language</string>
     <string name="apply">Apply</string>
+    <string name="filter">Filter</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="cancel">Cancel</string>
+    <string name="order_date">Order Date</string>
+    <string name="select">Select</string>
 </resources>

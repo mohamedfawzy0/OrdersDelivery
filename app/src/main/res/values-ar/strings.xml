@@ -23,4 +23,10 @@
     <string name="full_Return">مردود كامل</string>
     <string name="choose_your_preferred_language">اختر لغتك المفضلة</string>
     <string name="apply">تطبيق</string>
+    <string name="filter">تصفية</string>
+    <string name="from">من</string>
+    <string name="to">الى</string>
+    <string name="cancel">الغاء</string>
+    <string name="order_date">تاريخ الطلب</string>
+    <string name="select">اختر</string>
 </resources>
